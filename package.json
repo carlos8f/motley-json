@@ -1,0 +1,23 @@
+{
+  "name": "motley-json",
+  "version": "1.0.0",
+  "description": "JSON storage adapter for Motley",
+  "main": "_codemap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/motley-json.git"
+  },
+  "homepage": "https://s8f.org/motley.html",
+  "keywords": [
+    "json",
+    "motley"
+  ],
+  "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlos8f/motley-json/issues"
+  },
+  "dependencies": {
+    "sosa_json": "^0.3.1"
+  }
+}
