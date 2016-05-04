@@ -6,4 +6,4 @@ module.exports = {
     'path': './db.json',
     'hashKeys': false
   }
-};
+}
