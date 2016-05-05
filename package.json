@@ -18,6 +18,7 @@
     "url": "https://github.com/carlos8f/motley-json/issues"
   },
   "dependencies": {
+    "lockfile": "^1.0.1",
     "sosa_json": "^1.0.0"
   }
 }
